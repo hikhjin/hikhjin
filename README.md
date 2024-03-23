@@ -11,6 +11,7 @@ Welcome to my github profile!
 <img src="https://img.shields.io/badge/OCAML-EC6813?style=for-the-badge&logo=Ocaml&logoColor=white">
 <br/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/ORACLE-4479A1?style=for-the-badge&logo=Oracle&logoColor=white">
 <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
 <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <br/>
