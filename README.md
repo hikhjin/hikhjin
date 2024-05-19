@@ -28,5 +28,3 @@ Welcome to my github profile!
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <br/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hikhjin&show_icons=true&theme=holi)
