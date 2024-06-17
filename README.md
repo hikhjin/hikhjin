@@ -1,7 +1,7 @@
 <div align="left"> 
 
 ### Hi there 👋 
-안녕하세요! 백엔드 개발자 김현진입니다.
+안녕하세요! 성장하는 개발자 김현진입니다.
 
 ✨ Languages
 <br/>
