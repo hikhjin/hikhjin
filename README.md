@@ -24,9 +24,12 @@
 <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
 <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/MYBATIS-1A1B1F?style=for-the-badge&logo=MyBatis&logoColor=white">
+<img src="https://img.shields.io/badge/JPA-1A1B1F?style=for-the-badge&logo=MyBatis&logoColor=white">
 
 ☁ and also
 <br/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/DOCKER-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/JENKINS-181717?style=for-the-badge&logo=github&logoColor=white">
 <br/>
